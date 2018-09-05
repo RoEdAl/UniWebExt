@@ -1,4 +1,4 @@
-# Universal Web Browser Extension - conditional transpilation (compilation) from common code
+# Cross-Browser Extension - conditional transpilation (compilation) from common sources
 
 Conditional transpilation based on:
 
