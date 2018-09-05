@@ -1,0 +1,28 @@
+{
+    "manifest_version": 2,
+    "name": "@EXTENSION_NAME@",
+    "description": "@EXTENSION_DESC@",
+    "version": "@EXTENSION_VERSION@",
+    "minimum_chrome_version": "68",
+    "content_security_policy": "script-src 'self'; object-src 'self'",
+    "icons": {
+        "48": "icons/icon-48.png"
+    },
+
+    "background": {
+        "scripts": [ "background.js" ]
+    },
+
+    "browser_action": {
+        "default_icon": {
+            "48": "icons/icon-48.png"
+        },
+        "default_title": "@EXTENSION_NAME@ - Button here"
+    },
+
+    "permissions": [
+        "activeTab",
+        "contextMenus",
+        "notifications"
+    ]
+}
