@@ -1,8 +1,8 @@
-# Universal Web Extension - conditional compilation for various web browsers
+# Universal Web Browser Extension - conditional transpilation (compilation) from common code
 
-Conditional compilation based on:
+Conditional transpilation based on:
 
-* [Babel](http://babeljs.io/),
+* [Babel](http://babeljs.io),
 * [babel-plugin-conditional-compile](http://www.npmjs.com/package/babel-plugin-conditional-compile) plugin,
 * [@babel/plugin-proposal-do-expressions](http://babeljs.io/docs/en/babel-plugin-proposal-do-expressions) plugin.
 
@@ -38,4 +38,4 @@ With `babel-plugin-conditional-compile` you can use `BROWSER` *macro*:
 
 See also:
 
-* [Conditional compilation for JavaScript using Babel](https://medium.com/byteagenten/conditional-compilation-for-javascript-using-babel-5a6db5964422).
+* [Conditional compilation for JavaScript using Babel](http://medium.com/byteagenten/conditional-compilation-for-javascript-using-babel-5a6db5964422).
