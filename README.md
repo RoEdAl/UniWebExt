@@ -38,4 +38,4 @@ With `babel-plugin-conditional-compile` you can use `BROWSER` *macro*:
 
 See also:
 
-* [Conditional compilation for JavaScript using Babel](https://www.npmjs.com/package/babel-plugin-conditional-compile).
+* [Conditional compilation for JavaScript using Babel](https://medium.com/byteagenten/conditional-compilation-for-javascript-using-babel-5a6db5964422).
