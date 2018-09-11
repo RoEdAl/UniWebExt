@@ -88,7 +88,7 @@ const
     };
 
 if (CONFIG == "Debug")
-    console.log("UniWebExt: Greeting")
+    console.log("UniWebExt : debug version")
 
 create_menu_items();
 
